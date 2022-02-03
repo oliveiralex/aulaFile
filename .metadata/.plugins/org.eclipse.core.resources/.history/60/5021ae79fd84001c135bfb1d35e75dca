@@ -1,0 +1,42 @@
+package application;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import application.entities.Product;
+
+public class Program {
+	
+	public static void main(String[] args) {
+		
+		String path = "//media//alexandre//Arquivos HD//Alexandre Oliveira//tmp//teste//input.csv";
+		
+		try (BufferedReader br = new BufferedReader(new FileReader(path))) {
+			String line = br.readLine();
+			
+			while (line != null) {
+				//System.out.println(line);
+	
+				String[] values = line.split(",");
+				String name = values[0];
+				String price = values[1];
+				String quantity = values[2];
+				
+				List products = new ArrayList<>();
+				
+				Product product = new Product(values[0], null, null)
+				
+				
+				line = br.readLine();
+			}
+		}
+		catch (IOException e) {
+			System.out.println(e.getMessage());
+		}
+		
+		
+	}
+}

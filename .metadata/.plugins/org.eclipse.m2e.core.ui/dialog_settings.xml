@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4108"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4106"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4105"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4104"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4102"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4101"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4098/backend"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4094"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4086"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4087/backend"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4063/backend"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4065"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4062"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/4058"/>
+			<item value="/media/alexandre/Arquivos HD/Alexandre Oliveira/tmp/teste/event-city-api"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="teste"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
